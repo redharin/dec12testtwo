@@ -32,6 +32,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					 <cloudHubDeployment>
+						 
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.3.0</muleVersion>
 						<username>redharindec</username>
@@ -41,6 +42,7 @@
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
 						<objectStoreV2>true</objectStoreV2>
+						 
 					 </cloudHubDeployment>
 
 				</configuration>
